@@ -1,3 +1,3 @@
-# españopoly
+#españopoly
 
-landing page based for españopoly.comon [Start Bootstrap - Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
+landing page for españopoly.com based on [Start Bootstrap](http://startbootstrap.com/) [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
