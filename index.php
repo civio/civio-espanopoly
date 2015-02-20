@@ -195,7 +195,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-3">
-            <img class="author-pic img-responsive" src="http://static3.planetadelibros.com/usuaris/autores/fotos/63/tam_1/000062837_1_autora_201502161230.jpg">
+            <img class="author-pic img-responsive" src="img/eva.jpg">
           </div>
           <div class="author-bio col-md-9">
             <h3>Eva Belmonte</h3>
