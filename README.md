@@ -1,1 +1,1 @@
-# espanopoly
+# españopoly.com landing page based on [Start Bootstrap - Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
