@@ -13,7 +13,7 @@
     <meta property="og:title" content="Españopoly" />
     <meta property="og:description" content="Cómo hacerse con el poder en España (o, al menos, entenderlo)" />
     <meta property="og:type" content="website"/>
-    <meta property="og:url" content="http://espanopoly.com"/>
+    <meta property="og:url" content="http://xn--espaopoly-o6a.com"/>
     <meta property="og:image" content="http://españopoly.com/img/portada.jpg" />
 
     <title>Españopoly</title>
@@ -78,7 +78,7 @@
                           </a>
                         </li>
                         <li>
-                          <a class="fa fa-facebook" onclick="window.open('https://www.facebook.com/dialog/share?app_id=775593102496678&amp;display=popup&amp;href=http%3A%2F%2Fespanopoly.com%2F&amp;redirect_uri=http%3A%2F%2Fxn--espaopoly-o6a.com%2F','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" title="Comparte esta página en Facebook">
+                          <a class="fa fa-facebook" onclick="window.open('https://www.facebook.com/dialog/share?app_id=775593102496678&amp;display=popup&amp;href=http%3A%2F%2Fxn--espaopoly-o6a.com%2F&amp;redirect_uri=http%3A%2F%2Fxn--espaopoly-o6a.com%2F','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" title="Comparte esta página en Facebook">
                             <span>Compartir</span>
                           </a>
                         </li>
