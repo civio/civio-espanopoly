@@ -19,6 +19,7 @@
     <title>Españopoly</title>
 
     <link href="css/espanopoly.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="img/favicon.png">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
