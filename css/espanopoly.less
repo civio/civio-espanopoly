@@ -357,6 +357,85 @@ blockquote{
     margin-top: 0;
 }
 
+.medios{
+    padding: 30px 0 20px;
+    background: @color-background;
+
+    h4{
+        font-size: 1.5em;
+        text-align: center;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+    }
+
+    blockquote{
+        font-size: 1.5em;
+        text-align: left;
+        border-bottom: 1px solid mix( white, @color-background, 75% );
+        margin: 0 0 15px;
+        padding: 0 0 15px;
+
+        &:last-child{
+            border-bottom: none;
+        }
+
+        .fa{
+            font-size: 0.75em;
+        }
+
+        .fa-quote-left{
+            padding: 0 .5em 0 0;
+        }
+        .fa-quote-right{
+            padding: 0 0 0 .5em;
+        }
+
+        a{
+            color: @color-primary;
+
+            &:hover{
+                color: #333;
+                text-decoration: none;
+            }
+        }
+
+        cite{
+            font-size: 0.875em;
+            font-style: normal;
+            font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+            strong{
+                font-weight: 600;
+            }
+        }
+    }
+
+    #carousel-tweets{
+        padding-top: 20px;
+
+        .carousel-inner > .item{
+           
+            iframe{
+                margin: 10px auto !important;
+            }
+        }
+
+        .carousel-indicators{
+            bottom: auto;
+            top: 0;
+
+            li{
+                background: white;
+               
+                &.active{
+                    background: @color-primary;
+                }
+            }
+        }
+    }
+}
+
+
 .autora{
     padding: 20px 0;
     background: @color-background;
@@ -430,7 +509,7 @@ blockquote{
     }
 }
 
-footer {
+.main-footer {
     padding: 50px 0;
     color: white;
     background-color: @color-primary;
@@ -452,6 +531,10 @@ p.copyright {
 }
 
 @media(max-width:992px) {
+    .medios blockquote{
+        text-align: center;
+    }
+
     .autora{
         text-align: center;
         padding-left: 10px;
