@@ -18,7 +18,7 @@
 
     <title>Españopoly</title>
 
-    <link href="css/espanopoly.css" rel="stylesheet">
+    <link href="css/espanopoly.css?v=1.0" rel="stylesheet">
     <link rel="icon" type="image/png" href="img/favicon.png">
 
     <!-- Custom Fonts -->
@@ -119,7 +119,20 @@
       <div class="container">
         <div class="row">
           <h4>En Medios</h4>
+          <div class="col-md-8 col-md-offset-2">
+            <div class="video-responsive">
+              <iframe width="853" height="480" src="https://www.youtube.com/embed/jUs2KW8Gi9I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+            </div>
+          </div>
           <div class="col-md-6">
+            <blockquote>
+              <footer><cite>4 de Abril, entrevista en <strong>El Confidencial</strong></cite></footer>
+              <a href="http://www.elconfidencial.com/espana/2015-04-04/espanopoly-eva-belmonte-civio_752138/" title="Españopoly, el libro que explica quiénes y cómo se han hecho con el poder en España" target="_blank"><i class="fa fa-quote-left"></i>Españopoly, el libro que explica quiénes y cómo se han hecho con el poder en España<i class="fa fa-quote-right"></i></a>
+            </blockquote>
+            <blockquote>
+              <footer><cite>1 de Abril, encuentro digital en <strong>El Mundo</strong></cite></footer>
+              <a href="http://www.elmundo.es/elmundo/encuentros/redaccion/2015/04/01/eva-belmonte/index.html" title="Encuentro digital con Eva Belmonte" target="_blank"><i class="fa fa-quote-left"></i>Encuentro digital con Eva Belmonte<i class="fa fa-quote-right"></i></a>
+            </blockquote>
             <blockquote>
               <footer><cite>27 de Marzo, entrevista en <strong>La Marea</strong></cite></footer>
               <a href="http://www.lamarea.com/2015/03/27/la-meritocracia-es-un-bien-escaso-en-espana/" title="La meritocracia es un bien escaso en España" target="_blank"><i class="fa fa-quote-left"></i>La meritocracia es un bien escaso en España<i class="fa fa-quote-right"></i></a>
@@ -140,37 +153,48 @@
               <footer><cite>27 de Marzo, chat con los lectores de <strong>Diario de Ibiza</strong></cite></footer>
               <a href="http://comunidad.diariodeibiza.es/entrevista-chat/6263/cultura/quienes-manejan-los-hilos-en-espana/entrevista.html" title="¿Quiénes manejan los hilos en España?" target="_blank"><i class="fa fa-quote-left"></i>¿Quiénes manejan los hilos en España?<i class="fa fa-quote-right"></i></a>
             </blockquote>
-            <blockquote>
-              <footer><cite>19 de Marzo, reseña en <strong>Vozpópuli</strong></cite></footer>
-              <a href="http://vozpopuli.com/ocio-y-cultura/59306-espana-es-como-el-monopoly-se-puede-ganar-dinero-saltar-casillas-y-salir-de-la-carcel-con-una-tarjetita" title="España es como el Monopoly: se puede ganar dinero, saltar casillas y salir de la cárcel con una tarjetita" target="_blank"><i class="fa fa-quote-left"></i>España es como el Monopoly: se puede ganar dinero, saltar casillas y salir de la cárcel con una tarjetita<i class="fa fa-quote-right"></i></a>
-            </blockquote>
           </div>
           <div class="col-md-6">
             <div id="carousel-tweets" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es"  lang="es"><p>Muy revelador &#39;Españopoly&#39;, libro dnde <a href="https://twitter.com/evabelmonte">@evabelmonte</a> cuenta cómo nos gobiernan y se reparten la tarta los miembros de nuestra nomenklatura</p>&mdash; Arsenio Escolar (@arsenioescolar) <a href="https://twitter.com/arsenioescolar/status/578542579496689664">March 19, 2015</a></blockquote>
+                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es" lang="es"><p>Recortar en Cooperación Internacional sin afectar a fundaciones de partidos? <a href="https://twitter.com/hashtag/espanopoly?src=hash">#espanopoly</a> de <a href="https://twitter.com/evabelmonte">@evabelmonte</a> Lean,lean... <a href="http://t.co/Nr3x99WmeK">pic.twitter.com/Nr3x99WmeK</a></p>&mdash; M. Ángel Gavilanes (@MAngelGavilanes) <a href="https://twitter.com/MAngelGavilanes/status/584765574934310913">April 5, 2015</a></blockquote>
                 </div>
                 <div class="item">
-                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es"  lang="es"><p>Españopoly : Eva Belmonte <a href="http://t.co/YpTSlGukBL">http://t.co/YpTSlGukBL</a> … 24mar2015 <a href="https://twitter.com/evabelmonte">@evabelmonte</a> <a href="https://twitter.com/EditorialAriel">@EditorialAriel</a> <a href="https://twitter.com/hashtag/libro?src=hash">#libro</a> <a href="https://twitter.com/hashtag/pol%C3%ADtica?src=hash">#política</a> <a href="https://twitter.com/hashtag/periodismo?src=hash">#periodismo</a> Hay que comprarlo YA.</p>&mdash; Antonio Rubio (@ARubioCampana) <a href="https://twitter.com/ARubioCampana/status/578658431579598848">March 19, 2015</a></blockquote>
+                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es" lang="es"><p>El lector del <a href="https://twitter.com/hashtag/Espa%C3%B1opoly?src=hash">#Españopoly</a> no tiene que creerse a <a href="https://twitter.com/evabelmonte">@evabelmonte</a>: más de 300 notas referencian los datos del libro <a href="http://t.co/tdpDDaZlki">http://t.co/tdpDDaZlki</a></p>&mdash; Hugo Garrido (@hgrosado) <a href="https://twitter.com/hgrosado/status/584301134606639104">April 4, 2015</a></blockquote>
+                </div>
+                <div class="item">
+                  <blockquote class="twitter-tweet" data-conversation="none" data-link-color="#d51839" data-lang="es" lang="es"><p>El <a href="https://twitter.com/hashtag/espa%C3%B1opoly?src=hash">#españopoly</a>, llevo un 30% leído, se va a hablar mucho de este libro. Enhorabuena. <a href="https://twitter.com/civio">@civio</a> <a href="https://twitter.com/evabelmonte">@evabelmonte</a> <a href="http://t.co/yYTIuabMZ0">pic.twitter.com/yYTIuabMZ0</a></p>&mdash; David Simon-Santiñán (@DavidSimonEU) <a href="https://twitter.com/DavidSimonEU/status/584293419029258240">April 4, 2015</a></blockquote>
+                </div>
+                <div class="item">
+                  <blockquote class="twitter-tweet" data-cards="hidden" data-link-color="#d51839" data-lang="es" lang="es"><p>Fantástico &quot;Españopoly&quot; de <a href="https://twitter.com/evabelmonte">@evabelmonte</a>. Muchísima información analizada, explicada y razonada <a href="http://t.co/G5UPuggtdH">http://t.co/G5UPuggtdH</a> <a href="http://t.co/4OuLzr2tXJ">pic.twitter.com/4OuLzr2tXJ</a></p>&mdash; Ignacio Mancera (@Ignacio_Mancera) <a href="https://twitter.com/Ignacio_Mancera/status/583678020201877504">April 2, 2015</a></blockquote>
+                </div>
+                <div class="item">
+                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es" lang="es"><p>Acabo de finalizar Españopoly de <a href="https://twitter.com/evabelmonte">@evabelmonte</a> apasionante e indignante a partes iguales, lectura imprescindible!</p>&mdash; David Matas (@davidmatas) <a href="https://twitter.com/davidmatas/status/584302756141334528">April 4, 2015</a></blockquote>
+                </div>
+                <div class="item">
+                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es" lang="es"><p>.<a href="https://twitter.com/evabelmonte">@evabelmonte</a> de <a href="https://twitter.com/civio">@civio</a> y <a href="https://twitter.com/M_Investigacion">@M_Investigacion</a> respondiendo preguntas en <a href="https://twitter.com/elmundoes">@elmundoes</a> sobre su libro: <a href="https://twitter.com/hashtag/Espa%C3%B1opoly?src=hash">#Españopoly</a> <a href="http://t.co/omgQgIrT2f">pic.twitter.com/omgQgIrT2f</a></p>&mdash; Antonio Rubio (@ARubioCampana) <a href="https://twitter.com/ARubioCampana/status/583233407553003521">April 1, 2015</a></blockquote>
+                </div>
+                <div class="item">
+                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es" lang="es"><p>Muy revelador &#39;Españopoly&#39;, libro dnde <a href="https://twitter.com/evabelmonte">@evabelmonte</a> cuenta cómo nos gobiernan y se reparten la tarta los miembros de nuestra nomenklatura</p>&mdash; Arsenio Escolar (@arsenioescolar) <a href="https://twitter.com/arsenioescolar/status/578542579496689664">March 19, 2015</a></blockquote>
+                </div>
+                <div class="item">
+                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es" lang="es"><p>Españopoly : Eva Belmonte <a href="http://t.co/YpTSlGukBL">http://t.co/YpTSlGukBL</a> … 24mar2015 <a href="https://twitter.com/evabelmonte">@evabelmonte</a> <a href="https://twitter.com/EditorialAriel">@EditorialAriel</a> <a href="https://twitter.com/hashtag/libro?src=hash">#libro</a> <a href="https://twitter.com/hashtag/pol%C3%ADtica?src=hash">#política</a> <a href="https://twitter.com/hashtag/periodismo?src=hash">#periodismo</a> Hay que comprarlo YA.</p>&mdash; Antonio Rubio (@ARubioCampana) <a href="https://twitter.com/ARubioCampana/status/578658431579598848">March 19, 2015</a></blockquote>
                 </div>
                 <div class="item">
                   <blockquote class="twitter-tweet" lang="en"><p>La gran apuesta/juego de <a href="https://twitter.com/Cronica_ElMundo">@Cronica_ElMundo</a> para sus páginas centrales:El Monopoly del poder en España, x <a href="https://twitter.com/evabelmonte">@evabelmonte</a> <a href="http://t.co/0hZOD1A2Ss">pic.twitter.com/0hZOD1A2Ss</a></p>&mdash; Crónica El Mundo (@Cronica_ElMundo) <a href="https://twitter.com/Cronica_ElMundo/status/582123873946193921">March 29, 2015</a></blockquote>
                 </div>
                 <div class="item">
-                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es"  lang="es"><p>De la autora de «El BOE nuestro de cada día», «El Indultómetro» y «Quién Manda»… «Españopoly». Yo ya lo he comprado <a href="http://t.co/lEFS5cKmrp">http://t.co/lEFS5cKmrp</a></p>&mdash; Alvy (@Alvy) <a href="https://twitter.com/Alvy/status/582476262024806401">March 30, 2015</a></blockquote>
+                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es" data-cards="hidden" lang="es"><p>De la autora de «El BOE nuestro de cada día», «El Indultómetro» y «Quién Manda»… «Españopoly». Yo ya lo he comprado <a href="http://t.co/lEFS5cKmrp">http://t.co/lEFS5cKmrp</a></p>&mdash; Alvy (@Alvy) <a href="https://twitter.com/Alvy/status/582476262024806401">March 30, 2015</a></blockquote>
                 </div>
                 <div class="item">
-                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es"  lang="es"><p>Libro de política más vendido en Amazon ahora mismo: el &quot;Españopoly&quot; de <a href="https://twitter.com/evabelmonte">@evabelmonte</a>: <a href="http://t.co/75UMbv4byP">http://t.co/75UMbv4byP</a></p>&mdash; Mauro Entrialgo (@Tyrexito) <a href="https://twitter.com/Tyrexito/status/580711452715151360">March 25, 2015</a></blockquote>
+                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es" lang="es"><p>Libro de política más vendido en Amazon ahora mismo: el &quot;Españopoly&quot; de <a href="https://twitter.com/evabelmonte">@evabelmonte</a>: <a href="http://t.co/75UMbv4byP">http://t.co/75UMbv4byP</a></p>&mdash; Mauro Entrialgo (@Tyrexito) <a href="https://twitter.com/Tyrexito/status/580711452715151360">March 25, 2015</a></blockquote>
                 </div>
                 <div class="item">
-                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es"  lang="es"><p>Qué gran libro es &#39;Españopoly&#39; de <a href="https://twitter.com/evabelmonte">@evabelmonte</a>. Gran referencia a Liberty Valance. Este miércoles a la venta <a href="http://t.co/aeYa5yH1N3">pic.twitter.com/aeYa5yH1N3</a></p>&mdash; eduardosuarez (@eduardosuarez) <a href="https://twitter.com/eduardosuarez/status/580437803017871361">March 24, 2015</a></blockquote>
+                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es" lang="es"><p>Qué gran libro es &#39;Españopoly&#39; de <a href="https://twitter.com/evabelmonte">@evabelmonte</a>. Gran referencia a Liberty Valance. Este miércoles a la venta <a href="http://t.co/aeYa5yH1N3">pic.twitter.com/aeYa5yH1N3</a></p>&mdash; eduardosuarez (@eduardosuarez) <a href="https://twitter.com/eduardosuarez/status/580437803017871361">March 24, 2015</a></blockquote>
                 </div>
                 <div class="item">
-                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es"  lang="es"><p>Qué pinta tiene el libro de <a href="https://twitter.com/evabelmonte">@evabelmonte</a> Españopoly. <a href="http://t.co/eWZeADM5J0">http://t.co/eWZeADM5J0</a> No podrás dejar de comprarlo. Gracias por tu trabajo.</p>&mdash; Porcentual.es (@Porcentuales) <a href="https://twitter.com/Porcentuales/status/580328557517398016">March 24, 2015</a></blockquote>
-                </div>
-                <div class="item">
-                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es"  lang="es"><p>En <a href="https://twitter.com/Avivir">@Avivir</a> la compañera <a href="https://twitter.com/evabelmonte">@evabelmonte</a> nos habla de su gran libro: Españopoly. de Anímate y cómpralo. Nos cuenta quien manda en España.</p>&mdash; Antonio Rubio (@ARubioCampana) <a href="https://twitter.com/ARubioCampana/status/579193858929659904">March 21, 2015</a></blockquote>
+                  <blockquote class="twitter-tweet" data-link-color="#d51839" data-lang="es" lang="es"><p>En <a href="https://twitter.com/Avivir">@Avivir</a> la compañera <a href="https://twitter.com/evabelmonte">@evabelmonte</a> nos habla de su gran libro: Españopoly. de Anímate y cómpralo. Nos cuenta quien manda en España.</p>&mdash; Antonio Rubio (@ARubioCampana) <a href="https://twitter.com/ARubioCampana/status/579193858929659904">March 21, 2015</a></blockquote>
                 </div>
               </div>
               <!-- Indicators -->
@@ -182,6 +206,12 @@
                 <li data-target="#carousel-tweets" data-slide-to="4"></li>
                 <li data-target="#carousel-tweets" data-slide-to="5"></li>
                 <li data-target="#carousel-tweets" data-slide-to="6"></li>
+                <li data-target="#carousel-tweets" data-slide-to="7"></li>
+                <li data-target="#carousel-tweets" data-slide-to="8"></li>
+                <li data-target="#carousel-tweets" data-slide-to="9"></li>
+                <li data-target="#carousel-tweets" data-slide-to="10"></li>
+                <li data-target="#carousel-tweets" data-slide-to="11"></li>
+                <li data-target="#carousel-tweets" data-slide-to="12"></li>
               </ol>
             </div>
             <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
