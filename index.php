@@ -18,7 +18,7 @@
 
     <title>Españopoly</title>
 
-    <link href="css/espanopoly.css?v=1.0" rel="stylesheet">
+    <link href="css/espanopoly.css?v=3.0" rel="stylesheet">
     <link rel="icon" type="image/png" href="img/favicon.png">
 
     <!-- Custom Fonts -->
@@ -54,8 +54,6 @@
                     <h1>ESPAÑOPOLY</h1>
                     <h2>Cómo hacerse con el poder en España <br/>(o, al menos, entenderlo)</h2>
                     <img src="img/portada.jpg" class="img-responsive visible-sm visible-xs" alt="Españopoly" />
-                    <hr class="intro-divider">
-                    <p class="buy-date">A la venta el 24 de Marzo</p>
                     <hr class="intro-divider">
                     <ul class="intro-buy-buttons">
                         <li>
@@ -118,6 +116,18 @@
     <div class="medios">
       <div class="container">
         <div class="row">
+          <h4>Agenda</h4>
+          <div class="agenda col-md-8 col-md-offset-2">
+            <p><i>23 de Abril</i><br/><strong>Barcelona</strong> - Firma de ejemplares en <strong>Sant Jordi</strong></p>
+            <ul>
+              <li><i>13:00 - 14:00h</i> Eva Belmonte firmará ejemplares de Españopoly en <a href="https://goo.gl/maps/wOYqG" title="Librería Hernández" target="_blank">Librería Hernández. Plaça Sarrià (carpa)</a>.</li>
+              <li><i>16:00 - 17:00h</i> Firmas en <a href="https://goo.gl/maps/E2PGR" title="Librería Ben Vil" target="_blank">Librería Ben Vil (Rambla Catalunya, 64)</a>. </li>
+              <li><i>19:00 - 20:00h</i> Firmas en <a href="https://goo.gl/maps/v5uqE" title="FNAC Arenas" target="_blank">FNAC Arenas. C. C. Las Arenas (Gran Vía de les Corts Catalanes, 373-385)</a>.</li>
+            </ul>
+          </div>
+          <div class="col-md-12 clearfix">
+            <hr class="intro-divider">
+          </div>
           <h4>En Medios</h4>
           <div class="col-md-8 col-md-offset-2">
             <div class="video-responsive">
@@ -125,6 +135,10 @@
             </div>
           </div>
           <div class="col-md-6">
+            <blockquote>
+              <footer><cite>7 de Abril, entrevista en <strong>Carne Cruda</strong></cite></footer>
+              <a href="http://carnecruda.es/2015/04/07/espanopoly-quien-controla-el-tablero-del-poder/" title="Quién controla el tablero del poder" target="_blank"><i class="fa fa-quote-left"></i>Quién controla el tablero del poder<i class="fa fa-quote-right"></i></a>
+            </blockquote>
             <blockquote>
               <footer><cite>4 de Abril, entrevista en <strong>El Confidencial</strong></cite></footer>
               <a href="http://www.elconfidencial.com/espana/2015-04-04/espanopoly-eva-belmonte-civio_752138/" title="Españopoly, el libro que explica quiénes y cómo se han hecho con el poder en España" target="_blank"><i class="fa fa-quote-left"></i>Españopoly, el libro que explica quiénes y cómo se han hecho con el poder en España<i class="fa fa-quote-right"></i></a>
