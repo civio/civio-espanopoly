@@ -112,12 +112,12 @@
     </div>
     
     <!-- En Medios -->
-    <a name="en-medios"></a>
-    <div class="medios">
+    <a name="agenda"></a>
+    <div class="agenda">
       <div class="container">
         <div class="row">
           <h4>Agenda</h4>
-          <div class="agenda col-md-8 col-md-offset-2">
+          <div class="col-md-8 col-md-offset-2">
             <p><i>23 de Abril</i><br/><strong>Barcelona</strong> - Firma de ejemplares en <strong>Sant Jordi</strong></p>
             <ul>
               <li><i>13:00 - 14:00h</i> Eva Belmonte firmará ejemplares de Españopoly en <a href="https://goo.gl/maps/wOYqG" title="Librería Hernández" target="_blank">Librería Hernández. Plaça Sarrià (carpa)</a>.</li>
@@ -125,9 +125,15 @@
               <li><i>19:00 - 20:00h</i> Firmas en <a href="https://goo.gl/maps/v5uqE" title="FNAC Arenas" target="_blank">FNAC Arenas. C. C. Las Arenas (Gran Vía de les Corts Catalanes, 373-385)</a>.</li>
             </ul>
           </div>
-          <div class="col-md-12 clearfix">
-            <hr class="intro-divider">
-          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- En Medios -->
+    <a name="en-medios"></a>
+    <div class="medios">
+      <div class="container">
+        <div class="row">
           <h4>En Medios</h4>
           <div class="col-md-8 col-md-offset-2">
             <div class="video-responsive">
@@ -384,6 +390,10 @@
                 <li class="footer-menu-divider">&sdot;</li>
                 <li>
                   <a href="#sinopsis">Sinopsis</a>
+                </li>
+                <li class="footer-menu-divider">&sdot;</li>
+                <li>
+                  <a href="#agenda">Agenda</a>
                 </li>
                 <li class="footer-menu-divider">&sdot;</li>
                 <li>
