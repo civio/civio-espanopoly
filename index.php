@@ -18,7 +18,7 @@
 
     <title>Españopoly</title>
 
-    <link href="css/espanopoly.css?v=3.0" rel="stylesheet">
+    <link href="css/espanopoly.css?v=4.0" rel="stylesheet">
     <link rel="icon" type="image/png" href="img/favicon.png">
 
     <!-- Custom Fonts -->
@@ -343,7 +343,7 @@
                 <a href="https://github.com/EvaBelmonte" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Eva Belmonte en GitHub</span></a>
               </li>
               <li>
-                <a href="mailto:eva@vicio.es" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-fw"></i> <span class="network-name">Eva Belmonte Email</span></a>
+                <a href="mailto:eva@civio.es" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-fw"></i> <span class="network-name">Eva Belmonte Email</span></a>
               </li>
             </ul>
           </div>
